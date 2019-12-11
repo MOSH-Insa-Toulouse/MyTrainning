@@ -4,11 +4,11 @@ My first project with KiCad...
 
 ## Here is my schema
 
-![my_first_shield_sensor_board.png](docs\images\kicad_schematic.png)
+![my_first_shield_sensor_board.png](docs/images/kicad_schematic.png)
 
 ## Here is my Arduino shield for my gas sensor
 
-![my_first_shield_sensor_board.png](docs\images\my_first_shield_sensor_board.png)
+![my_first_shield_sensor_board.png](docs/images/my_first_shield_sensor_board.png)
 
 ## And a part of importante code
 
